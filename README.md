@@ -2,7 +2,7 @@
 
 [![cover](media/cover.png)](https://markkerry.github.io/posts/serverless-laps-azure-function/)
 
-<https://markkerry.github.io/posts/serverless-laps-azure-function/>
+[//]: https://markkerry.github.io/posts/serverless-laps-azure-function/
 
 <br>
 
