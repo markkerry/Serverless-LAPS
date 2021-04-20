@@ -2,7 +2,9 @@
 
 [![cover](media/cover.png)](https://markkerry.github.io/posts/serverless-laps-azure-function/)
 
-[//]: https://markkerry.github.io/posts/serverless-laps-azure-function/
+Automatically create and recycle unique local admin passwords using Azure Functions, Key Vault and Proactive Remediations.
+
+Find more information at (coming soon) https://markkerry.github.io/posts/serverless-laps-azure-function/
 
 <br>
 
@@ -20,8 +22,8 @@ And creating and deploying Azure Functions by [Serverless on Azure](https://www.
 In my guide I did the following:
 
 * Created the Azure resources with Azure CLI
-* Creating and deployed the Function using Azure Functions Core Tools
-* Used a MEM Endpoint Analytics Proactive Remediation
+* Created and deployed the Function using Azure Functions Core Tools
+* Used a MEM Endpoint Analytics Proactive Remediation to manage the recycling of the admin password
 
 My take on it (based on John Sneerden's solution) looks as follows:
 
