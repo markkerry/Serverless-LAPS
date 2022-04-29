@@ -1,6 +1,6 @@
 # Serverless LAPS
 
-[![cover](media/cover.png)](https://markkerry.github.io/posts/serverless-laps-azure-function/)
+[![cover](media/cover.png)](https://markkerry.github.io/posts/2021/04/serverless-laps-azure-function/)
 
 Automatically create and recycle unique local admin passwords using Azure Functions, Key Vault and Proactive Remediations.
 
